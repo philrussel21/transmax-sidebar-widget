@@ -1,0 +1,540 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot - with icon 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <ul
+        class="space-y-0.5"
+      >
+        <li
+          class="flex gap-5 text-sm items-center"
+        >
+          <span
+            class="font-light flex-1"
+          >
+            Test 1
+          </span>
+          <span
+            class="flex gap-0.5 items-center w-1/3"
+          >
+            <span
+              class="font-medium text-base"
+            >
+              20
+            </span>
+          </span>
+        </li>
+        <li
+          class="flex gap-5 text-sm items-center"
+        >
+          <span
+            class="font-light flex-1"
+          >
+            Test 2
+          </span>
+          <span
+            class="flex gap-0.5 items-center w-1/3"
+          >
+            <span
+              class="font-medium text-base"
+            >
+              20
+            </span>
+          </span>
+        </li>
+        <li
+          class="flex gap-5 text-sm items-center"
+        >
+          <span
+            class="font-light flex-1"
+          >
+            Test 4
+          </span>
+          <span
+            class="flex gap-0.5 items-center w-1/3"
+          >
+            <span
+              class="font-medium text-base"
+            >
+              35
+            </span>
+            <svg
+              class="size-4"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z"
+              />
+            </svg>
+          </span>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <ul
+      class="space-y-0.5"
+    >
+      <li
+        class="flex gap-5 text-sm items-center"
+      >
+        <span
+          class="font-light flex-1"
+        >
+          Test 1
+        </span>
+        <span
+          class="flex gap-0.5 items-center w-1/3"
+        >
+          <span
+            class="font-medium text-base"
+          >
+            20
+          </span>
+        </span>
+      </li>
+      <li
+        class="flex gap-5 text-sm items-center"
+      >
+        <span
+          class="font-light flex-1"
+        >
+          Test 2
+        </span>
+        <span
+          class="flex gap-0.5 items-center w-1/3"
+        >
+          <span
+            class="font-medium text-base"
+          >
+            20
+          </span>
+        </span>
+      </li>
+      <li
+        class="flex gap-5 text-sm items-center"
+      >
+        <span
+          class="font-light flex-1"
+        >
+          Test 4
+        </span>
+        <span
+          class="flex gap-0.5 items-center w-1/3"
+        >
+          <span
+            class="font-medium text-base"
+          >
+            35
+          </span>
+          <svg
+            class="size-4"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z"
+            />
+          </svg>
+        </span>
+      </li>
+    </ul>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`snapshot - with meta 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <ul
+        class="space-y-0.5"
+      >
+        <li
+          class="flex gap-5 text-sm items-center"
+        >
+          <span
+            class="font-light flex-1"
+          >
+            Test 1
+          </span>
+          <span
+            class="flex gap-0.5 items-center w-1/3"
+          >
+            <span
+              class="font-medium text-base"
+            >
+              20
+            </span>
+          </span>
+        </li>
+        <li
+          class="flex gap-5 text-sm items-center"
+        >
+          <span
+            class="font-light flex-1"
+          >
+            Test 2
+          </span>
+          <span
+            class="flex gap-0.5 items-center w-1/3"
+          >
+            <span
+              class="font-medium text-base"
+            >
+              20
+            </span>
+          </span>
+        </li>
+        <li
+          class="flex gap-5 text-sm items-center"
+        >
+          <span
+            class="font-light flex-1"
+          >
+            Test 3
+          </span>
+          <span
+            class="flex gap-0.5 items-center w-1/3"
+          >
+            <span
+              class="font-medium text-base"
+            >
+              30
+            </span>
+            <span
+              class="font-light"
+            >
+              kmh
+            </span>
+          </span>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <ul
+      class="space-y-0.5"
+    >
+      <li
+        class="flex gap-5 text-sm items-center"
+      >
+        <span
+          class="font-light flex-1"
+        >
+          Test 1
+        </span>
+        <span
+          class="flex gap-0.5 items-center w-1/3"
+        >
+          <span
+            class="font-medium text-base"
+          >
+            20
+          </span>
+        </span>
+      </li>
+      <li
+        class="flex gap-5 text-sm items-center"
+      >
+        <span
+          class="font-light flex-1"
+        >
+          Test 2
+        </span>
+        <span
+          class="flex gap-0.5 items-center w-1/3"
+        >
+          <span
+            class="font-medium text-base"
+          >
+            20
+          </span>
+        </span>
+      </li>
+      <li
+        class="flex gap-5 text-sm items-center"
+      >
+        <span
+          class="font-light flex-1"
+        >
+          Test 3
+        </span>
+        <span
+          class="flex gap-0.5 items-center w-1/3"
+        >
+          <span
+            class="font-medium text-base"
+          >
+            30
+          </span>
+          <span
+            class="font-light"
+          >
+            kmh
+          </span>
+        </span>
+      </li>
+    </ul>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <ul
+        class="space-y-0.5"
+      >
+        <li
+          class="flex gap-5 text-sm items-center"
+        >
+          <span
+            class="font-light flex-1"
+          >
+            Test 1
+          </span>
+          <span
+            class="flex gap-0.5 items-center w-1/3"
+          >
+            <span
+              class="font-medium text-base"
+            >
+              20
+            </span>
+          </span>
+        </li>
+        <li
+          class="flex gap-5 text-sm items-center"
+        >
+          <span
+            class="font-light flex-1"
+          >
+            Test 2
+          </span>
+          <span
+            class="flex gap-0.5 items-center w-1/3"
+          >
+            <span
+              class="font-medium text-base"
+            >
+              20
+            </span>
+          </span>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <ul
+      class="space-y-0.5"
+    >
+      <li
+        class="flex gap-5 text-sm items-center"
+      >
+        <span
+          class="font-light flex-1"
+        >
+          Test 1
+        </span>
+        <span
+          class="flex gap-0.5 items-center w-1/3"
+        >
+          <span
+            class="font-medium text-base"
+          >
+            20
+          </span>
+        </span>
+      </li>
+      <li
+        class="flex gap-5 text-sm items-center"
+      >
+        <span
+          class="font-light flex-1"
+        >
+          Test 2
+        </span>
+        <span
+          class="flex gap-0.5 items-center w-1/3"
+        >
+          <span
+            class="font-medium text-base"
+          >
+            20
+          </span>
+        </span>
+      </li>
+    </ul>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
