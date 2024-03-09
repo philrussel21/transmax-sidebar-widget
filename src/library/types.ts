@@ -2,6 +2,10 @@ const icons = ['sunny', 'windy', 'snowy', 'rainy'] as const;
 
 type IconType = typeof icons[number];
 
-export type {IconType};
+const statuses = ['low', 'medium', 'high'] as const;
 
-export {icons};
+type Status = typeof statuses[number];
+
+export type {IconType, Status};
+
+export {icons, statuses};
