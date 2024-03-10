@@ -8,7 +8,7 @@ import {
 import data from 'src/data/widget';
 
 const Widget = (): JSX.Element => (
-  <div className="p-4 bg-[#15191E]">
+  <aside className="p-4 bg-[#15191E]">
     <div className="px-4">
       <Weather
         label={data.weather.label}
@@ -45,7 +45,7 @@ const Widget = (): JSX.Element => (
         </Accordion.Panel>
       </Accordion.Container>
     </div>
-  </div>
+  </aside>
 );
 
 export default Widget;

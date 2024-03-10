@@ -24,14 +24,14 @@ const Weather = ({
     <div className="flex gap-4 justify-between items-center font-light">
       <div>
         <h4 className="ml-1 text-sm">{label}</h4>
-        <span className="text-5xl ml-3">{temperature}°</span>
-        <div className="flex text-xs gap-2">
+        <span className="text-5xl ml-3 text-white">{temperature}°</span>
+        <div className="flex text-xs gap-2 mt-0.5">
           <span>{day}</span>
           <span>{time}</span>
         </div>
       </div>
       <div>
-        <Icon className="size-20" />
+        <Icon className="size-20 text-white" />
       </div>
     </div>
   );

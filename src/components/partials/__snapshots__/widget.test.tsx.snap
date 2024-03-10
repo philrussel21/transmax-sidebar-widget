@@ -5,7 +5,7 @@ Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <div
+      <aside
         class="p-4 bg-[#15191E]"
       >
         <div
@@ -21,25 +21,25 @@ Object {
                 Melbourne
               </h4>
               <span
-                class="text-5xl ml-3"
+                class="text-5xl ml-3 text-white"
               >
                 32
                 °
               </span>
               <div
-                class="flex text-xs gap-2"
+                class="flex text-xs gap-2 mt-0.5"
               >
                 <span>
                   Sun 7th
                 </span>
                 <span>
-                  9:29 PM
+                  9:39 PM
                 </span>
               </div>
             </div>
             <div>
               <svg
-                class="size-20"
+                class="size-20 text-white"
                 fill="currentColor"
                 height="1em"
                 stroke="currentColor"
@@ -72,7 +72,7 @@ Object {
                   class="flex gap-0.5 items-center w-1/3"
                 >
                   <span
-                    class="font-medium text-base"
+                    class="font-medium text-base text-white"
                   >
                     78%
                   </span>
@@ -90,7 +90,7 @@ Object {
                   class="flex gap-0.5 items-center w-1/3"
                 >
                   <span
-                    class="font-medium text-base"
+                    class="font-medium text-base text-white"
                   >
                     34%
                   </span>
@@ -108,7 +108,7 @@ Object {
                   class="flex gap-0.5 items-center w-1/3"
                 >
                   <span
-                    class="font-medium text-base"
+                    class="font-medium text-base text-white"
                   >
                     21
                   </span>
@@ -131,12 +131,12 @@ Object {
                   class="flex gap-0.5 items-center w-1/3"
                 >
                   <span
-                    class="font-medium text-base"
+                    class="font-medium text-base text-white"
                   >
                     30°
                   </span>
                   <svg
-                    class="size-4"
+                    class="size-4 text-white"
                     fill="currentColor"
                     height="1em"
                     stroke="currentColor"
@@ -222,11 +222,11 @@ Object {
             </article>
           </section>
         </div>
-      </div>
+      </aside>
     </div>
   </body>,
   "container": <div>
-    <div
+    <aside
       class="p-4 bg-[#15191E]"
     >
       <div
@@ -242,25 +242,25 @@ Object {
               Melbourne
             </h4>
             <span
-              class="text-5xl ml-3"
+              class="text-5xl ml-3 text-white"
             >
               32
               °
             </span>
             <div
-              class="flex text-xs gap-2"
+              class="flex text-xs gap-2 mt-0.5"
             >
               <span>
                 Sun 7th
               </span>
               <span>
-                9:29 PM
+                9:39 PM
               </span>
             </div>
           </div>
           <div>
             <svg
-              class="size-20"
+              class="size-20 text-white"
               fill="currentColor"
               height="1em"
               stroke="currentColor"
@@ -293,7 +293,7 @@ Object {
                 class="flex gap-0.5 items-center w-1/3"
               >
                 <span
-                  class="font-medium text-base"
+                  class="font-medium text-base text-white"
                 >
                   78%
                 </span>
@@ -311,7 +311,7 @@ Object {
                 class="flex gap-0.5 items-center w-1/3"
               >
                 <span
-                  class="font-medium text-base"
+                  class="font-medium text-base text-white"
                 >
                   34%
                 </span>
@@ -329,7 +329,7 @@ Object {
                 class="flex gap-0.5 items-center w-1/3"
               >
                 <span
-                  class="font-medium text-base"
+                  class="font-medium text-base text-white"
                 >
                   21
                 </span>
@@ -352,12 +352,12 @@ Object {
                 class="flex gap-0.5 items-center w-1/3"
               >
                 <span
-                  class="font-medium text-base"
+                  class="font-medium text-base text-white"
                 >
                   30°
                 </span>
                 <svg
-                  class="size-4"
+                  class="size-4 text-white"
                   fill="currentColor"
                   height="1em"
                   stroke="currentColor"
@@ -443,7 +443,7 @@ Object {
           </article>
         </section>
       </div>
-    </div>
+    </aside>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

@@ -23,11 +23,11 @@ const ForecastItem = ({
     <li className="flex gap-5 text-sm items-center">
       <span className="font-light flex-1">{label}</span>
       <span className="flex gap-0.5 items-center w-1/3">
-        <span className="font-medium text-base">{value}</span>
+        <span className="font-medium text-base text-white">{value}</span>
         {meta !== undefined && meta.length > 1 && (
           <span className="font-light">{meta}</span>
         )}
-        {Icon !== undefined && <Icon className="size-4" />}
+        {Icon !== undefined && <Icon className="size-4 text-white" />}
       </span>
     </li>
   );

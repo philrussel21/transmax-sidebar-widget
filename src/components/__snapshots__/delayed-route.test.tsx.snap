@@ -64,12 +64,12 @@ Object {
           </div>
           <div>
             <span
-              class="font-medium text-base"
+              class="font-medium text-base text-white"
             >
               25
             </span>
             <span
-              class="ml-0.5"
+              class="ml-0.5 text-white"
             >
               min
             </span>
@@ -138,12 +138,12 @@ Object {
         </div>
         <div>
           <span
-            class="font-medium text-base"
+            class="font-medium text-base text-white"
           >
             25
           </span>
           <span
-            class="ml-0.5"
+            class="ml-0.5 text-white"
           >
             min
           </span>
@@ -269,12 +269,12 @@ Object {
           </div>
           <div>
             <span
-              class="font-medium text-base"
+              class="font-medium text-base text-white"
             >
               25
             </span>
             <span
-              class="ml-0.5"
+              class="ml-0.5 text-white"
             >
               min
             </span>
@@ -342,12 +342,12 @@ Object {
           </div>
           <div>
             <span
-              class="font-medium text-base"
+              class="font-medium text-base text-white"
             >
               25
             </span>
             <span
-              class="ml-0.5"
+              class="ml-0.5 text-white"
             >
               min
             </span>
@@ -416,12 +416,12 @@ Object {
         </div>
         <div>
           <span
-            class="font-medium text-base"
+            class="font-medium text-base text-white"
           >
             25
           </span>
           <span
-            class="ml-0.5"
+            class="ml-0.5 text-white"
           >
             min
           </span>
@@ -547,12 +547,12 @@ Object {
           </div>
           <div>
             <span
-              class="font-medium text-base"
+              class="font-medium text-base text-white"
             >
               25
             </span>
             <span
-              class="ml-0.5"
+              class="ml-0.5 text-white"
             >
               min
             </span>
@@ -620,12 +620,12 @@ Object {
           </div>
           <div>
             <span
-              class="font-medium text-base"
+              class="font-medium text-base text-white"
             >
               25
             </span>
             <span
-              class="ml-0.5"
+              class="ml-0.5 text-white"
             >
               min
             </span>
@@ -693,12 +693,12 @@ Object {
           </div>
           <div>
             <span
-              class="font-medium text-base"
+              class="font-medium text-base text-white"
             >
               25
             </span>
             <span
-              class="ml-0.5"
+              class="ml-0.5 text-white"
             >
               min
             </span>
@@ -767,12 +767,12 @@ Object {
         </div>
         <div>
           <span
-            class="font-medium text-base"
+            class="font-medium text-base text-white"
           >
             25
           </span>
           <span
-            class="ml-0.5"
+            class="ml-0.5 text-white"
           >
             min
           </span>

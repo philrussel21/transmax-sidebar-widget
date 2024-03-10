@@ -42,8 +42,8 @@ const DelayedRoute = ({
         </div>
       </div>
       <div>
-        <span className="font-medium text-base">{duration}</span>
-        <span className="ml-0.5">min</span>
+        <span className="font-medium text-base text-white">{duration}</span>
+        <span className="ml-0.5 text-white">min</span>
       </div>
     </div>
   </div>

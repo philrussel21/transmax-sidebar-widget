@@ -15,13 +15,13 @@ Object {
             Test
           </h4>
           <span
-            class="text-5xl ml-3"
+            class="text-5xl ml-3 text-white"
           >
             32
             °
           </span>
           <div
-            class="flex text-xs gap-2"
+            class="flex text-xs gap-2 mt-0.5"
           >
             <span>
               Sat 6th
@@ -33,7 +33,7 @@ Object {
         </div>
         <div>
           <svg
-            class="size-20"
+            class="size-20 text-white"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -61,13 +61,13 @@ Object {
           Test
         </h4>
         <span
-          class="text-5xl ml-3"
+          class="text-5xl ml-3 text-white"
         >
           32
           °
         </span>
         <div
-          class="flex text-xs gap-2"
+          class="flex text-xs gap-2 mt-0.5"
         >
           <span>
             Sat 6th
@@ -79,7 +79,7 @@ Object {
       </div>
       <div>
         <svg
-          class="size-20"
+          class="size-20 text-white"
           fill="currentColor"
           height="1em"
           stroke="currentColor"
@@ -164,13 +164,13 @@ Object {
             Test
           </h4>
           <span
-            class="text-5xl ml-3"
+            class="text-5xl ml-3 text-white"
           >
             32
             °
           </span>
           <div
-            class="flex text-xs gap-2"
+            class="flex text-xs gap-2 mt-0.5"
           >
             <span>
               Sat 6th
@@ -182,7 +182,7 @@ Object {
         </div>
         <div>
           <svg
-            class="size-20"
+            class="size-20 text-white"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -209,13 +209,13 @@ Object {
             Test
           </h4>
           <span
-            class="text-5xl ml-3"
+            class="text-5xl ml-3 text-white"
           >
             32
             °
           </span>
           <div
-            class="flex text-xs gap-2"
+            class="flex text-xs gap-2 mt-0.5"
           >
             <span>
               Sat 6th
@@ -227,7 +227,7 @@ Object {
         </div>
         <div>
           <svg
-            class="size-20"
+            class="size-20 text-white"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -255,13 +255,13 @@ Object {
           Test
         </h4>
         <span
-          class="text-5xl ml-3"
+          class="text-5xl ml-3 text-white"
         >
           32
           °
         </span>
         <div
-          class="flex text-xs gap-2"
+          class="flex text-xs gap-2 mt-0.5"
         >
           <span>
             Sat 6th
@@ -273,7 +273,7 @@ Object {
       </div>
       <div>
         <svg
-          class="size-20"
+          class="size-20 text-white"
           fill="currentColor"
           height="1em"
           stroke="currentColor"
@@ -358,13 +358,13 @@ Object {
             Test
           </h4>
           <span
-            class="text-5xl ml-3"
+            class="text-5xl ml-3 text-white"
           >
             32
             °
           </span>
           <div
-            class="flex text-xs gap-2"
+            class="flex text-xs gap-2 mt-0.5"
           >
             <span>
               Sat 6th
@@ -376,7 +376,7 @@ Object {
         </div>
         <div>
           <svg
-            class="size-20"
+            class="size-20 text-white"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -403,13 +403,13 @@ Object {
             Test
           </h4>
           <span
-            class="text-5xl ml-3"
+            class="text-5xl ml-3 text-white"
           >
             32
             °
           </span>
           <div
-            class="flex text-xs gap-2"
+            class="flex text-xs gap-2 mt-0.5"
           >
             <span>
               Sat 6th
@@ -421,7 +421,7 @@ Object {
         </div>
         <div>
           <svg
-            class="size-20"
+            class="size-20 text-white"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -448,13 +448,13 @@ Object {
             Test
           </h4>
           <span
-            class="text-5xl ml-3"
+            class="text-5xl ml-3 text-white"
           >
             32
             °
           </span>
           <div
-            class="flex text-xs gap-2"
+            class="flex text-xs gap-2 mt-0.5"
           >
             <span>
               Sat 6th
@@ -466,7 +466,7 @@ Object {
         </div>
         <div>
           <svg
-            class="size-20"
+            class="size-20 text-white"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -494,13 +494,13 @@ Object {
           Test
         </h4>
         <span
-          class="text-5xl ml-3"
+          class="text-5xl ml-3 text-white"
         >
           32
           °
         </span>
         <div
-          class="flex text-xs gap-2"
+          class="flex text-xs gap-2 mt-0.5"
         >
           <span>
             Sat 6th
@@ -512,7 +512,7 @@ Object {
       </div>
       <div>
         <svg
-          class="size-20"
+          class="size-20 text-white"
           fill="currentColor"
           height="1em"
           stroke="currentColor"
@@ -597,13 +597,13 @@ Object {
             Test
           </h4>
           <span
-            class="text-5xl ml-3"
+            class="text-5xl ml-3 text-white"
           >
             32
             °
           </span>
           <div
-            class="flex text-xs gap-2"
+            class="flex text-xs gap-2 mt-0.5"
           >
             <span>
               Sat 6th
@@ -615,7 +615,7 @@ Object {
         </div>
         <div>
           <svg
-            class="size-20"
+            class="size-20 text-white"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -642,13 +642,13 @@ Object {
             Test
           </h4>
           <span
-            class="text-5xl ml-3"
+            class="text-5xl ml-3 text-white"
           >
             32
             °
           </span>
           <div
-            class="flex text-xs gap-2"
+            class="flex text-xs gap-2 mt-0.5"
           >
             <span>
               Sat 6th
@@ -660,7 +660,7 @@ Object {
         </div>
         <div>
           <svg
-            class="size-20"
+            class="size-20 text-white"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -687,13 +687,13 @@ Object {
             Test
           </h4>
           <span
-            class="text-5xl ml-3"
+            class="text-5xl ml-3 text-white"
           >
             32
             °
           </span>
           <div
-            class="flex text-xs gap-2"
+            class="flex text-xs gap-2 mt-0.5"
           >
             <span>
               Sat 6th
@@ -705,7 +705,7 @@ Object {
         </div>
         <div>
           <svg
-            class="size-20"
+            class="size-20 text-white"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -732,13 +732,13 @@ Object {
             Test
           </h4>
           <span
-            class="text-5xl ml-3"
+            class="text-5xl ml-3 text-white"
           >
             32
             °
           </span>
           <div
-            class="flex text-xs gap-2"
+            class="flex text-xs gap-2 mt-0.5"
           >
             <span>
               Sat 6th
@@ -750,7 +750,7 @@ Object {
         </div>
         <div>
           <svg
-            class="size-20"
+            class="size-20 text-white"
             fill="currentColor"
             height="1em"
             stroke="currentColor"
@@ -778,13 +778,13 @@ Object {
           Test
         </h4>
         <span
-          class="text-5xl ml-3"
+          class="text-5xl ml-3 text-white"
         >
           32
           °
         </span>
         <div
-          class="flex text-xs gap-2"
+          class="flex text-xs gap-2 mt-0.5"
         >
           <span>
             Sat 6th
@@ -796,7 +796,7 @@ Object {
       </div>
       <div>
         <svg
-          class="size-20"
+          class="size-20 text-white"
           fill="currentColor"
           height="1em"
           stroke="currentColor"
